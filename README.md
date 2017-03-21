@@ -1,1 +1,1 @@
-# Simple-MD5-Example
+Simple function in Python 3 to generate hash.
